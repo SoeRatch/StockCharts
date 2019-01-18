@@ -1,0 +1,22 @@
+.homepage
+{	
+	background: #ede574; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ede574, #e1f5c4); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ede574, #e1f5c4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  height:100vh;
+}
+
+.symbols{
+	display: block;
+	top: 0%;
+	left: 50 %;
+	width: 350px;
+	padding: 8px 4px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,.5);
+}
+.chartComponent{
+
+	
+}
+
